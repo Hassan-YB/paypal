@@ -361,9 +361,6 @@ rocketchat-API==1.15.0
 rope==0.16.0
 rsa==4.7.2
 Rtree==0.9.4
-ruamel-yaml==0.15.87
-ruamel.yaml==0.17.10
-ruamel.yaml.clib==0.2.6
 s3transfer==0.4.2
 sanic==20.12.3
 Sanic-Cors==0.10.0.post3
